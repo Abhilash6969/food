@@ -18,11 +18,12 @@ html{
     font-family: 'Nova Flat', cursive;
     position: sticky;
     top: 0px;
-    <img src="/img/mypic.jpg" alt="logo">
+   
 
 }
 /* logo and image  */
 #logo{
+     <img src="/img/mypic.jpg" alt="logo">
 margin: 10px 34px;
 
 }
